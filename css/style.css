@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+h1{
+	color:#7A180D;
+  font-family:Tahoma, Geneva, sans-serif;
+  font-size: 90px;
+  text-align:center;
+}
+
+
+ h2{
+  color:#C72816;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 30px;
+  text-align:center;
+}
+h3{
+	color:#7D342C;
+	font-family:"Comic Sans MS", cursive;
+	font-size:20px;
+	}
+h4{
+	color:#7D342C;
+	font-family:"Comic Sans MS", cursive;
+	font-size:50px;
+	text-align:center;
+	}
+p{
+	color:#FA331C;
+	font-family:"Comic Sans MS", cursive;
+	font-size:20px;
+	}
+table, th, td {
+  border: 1px solid black;
+  text-align:center;
+}
